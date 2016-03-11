@@ -1,5 +1,5 @@
 {
-  "name": "qbox-fwd",
+  "name": "forwarder",
   "version": "1.0.0",
   "description": "forwards stuff",
   "main": "app.js",
